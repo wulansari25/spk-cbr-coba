@@ -1,0 +1,58 @@
+[
+    {
+        "nama": "Andi",
+        "minat": "data",
+        "kepribadian": "introvert",
+        "keahlian": "analisis",
+        "karier": "Data Analyst"
+    },
+    {
+        "nama": "Budi",
+        "minat": "desain",
+        "kepribadian": "introvert",
+        "keahlian": "desain",
+        "karier": "UI/UX Designer"
+    },
+    {
+        "nama": "Citra",
+        "minat": "komunikasi",
+        "kepribadian": "ekstrovert",
+        "keahlian": "public speaking",
+        "karier": "Marketing Specialist"
+    },
+    {
+        "nama": "Dewi",
+        "minat": "pendidikan",
+        "kepribadian": "ekstrovert",
+        "keahlian": "mengajar",
+        "karier": "Guru"
+    },
+    {
+        "nama": "Eko",
+        "minat": "teknologi",
+        "kepribadian": "introvert",
+        "keahlian": "pemrograman",
+        "karier": "Software Developer"
+    },
+    {
+        "nama": "Fani",
+        "minat": "bisnis",
+        "kepribadian": "ekstrovert",
+        "keahlian": "negosiasi",
+        "karier": "Sales Executive"
+    },
+    {
+        "nama": "wulan",
+        "minat": "bisnis",
+        "kepribadian": "introvert",
+        "keahlian": "analisis",
+        "karier": "Data Analyst"
+    },
+    {
+        "nama": "ella",
+        "minat": "komunikasi",
+        "kepribadian": "ekstrovert",
+        "keahlian": "public speaking",
+        "karier": "Marketing Specialist"
+    }
+]

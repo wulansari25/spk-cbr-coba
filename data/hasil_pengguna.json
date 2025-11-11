@@ -1,0 +1,35 @@
+[
+    {
+        "nama": "alif",
+        "minat": "Teknologi",
+        "keterampilan": "Pemrograman",
+        "kepribadian": "Ekstrovert",
+        "karier_rekomendasi": "Software Engineer"
+    },
+    {
+        "nama": "ayu",
+        "minat": "Desain",
+        "keterampilan": "Kreativitas",
+        "kepribadian": "Ambivert",
+        "karier_rekomendasi": "UI/UX Designer"
+    },
+    {
+        "minat": "Teknologi",
+        "keahlian": "Analisis Data",
+        "kepribadian": "Introvert",
+        "karier_rekomendasi": "Data Analyst"
+    },
+    {
+        "minat": "Bisnis",
+        "keahlian": "Kreativitas",
+        "kepribadian": "Ekstrovert",
+        "karier_rekomendasi": "Manajer Pemasaran"
+    },
+    {
+        "nama": "fitri ayu",
+        "minat": "Desain",
+        "keahlian": "Komunikasi",
+        "kepribadian": "Introvert",
+        "karier_rekomendasi": "Software Engineer"
+    }
+]
